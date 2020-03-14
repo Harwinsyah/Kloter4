@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+}
+
+.header {
+    padding-bottom: 20px;    
+}
+
+#penulis, #konten {
+    opacity: 50%;
+}
+
+body a {
+    color: black;
+}
